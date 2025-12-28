@@ -32,10 +32,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="33%" />
 
 </div>
-  
-  <!-- 添加动态贡献热图 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=wentzhao&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="GitHub 奖杯" />
-</div>
 
 
 <!-- 关于我部分 - 统一标题样式并对齐图标 -->
