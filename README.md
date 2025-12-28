@@ -4,23 +4,7 @@
   
   <!-- 更改轮播内容和动画速度 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
-
-    
-
-<!-- 添加动态波浪分隔符 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  关于我
-</h2>
-
-<!-- ...existing code... -->
-
-<!-- ...existing code... -->
-<!-- ...existing code... -->
-
-</div>
+  
 </div>
 
 <!-- 技能展示 - 统一标题样式并调整图标对齐 -->
@@ -36,19 +20,6 @@
   <!-- 添加技能动画卡片 - 改进布局 -->
   
 </div>
-
-<!-- 擅长领域标题 - 统一样式并对齐图标 -->
-
-<!-- 动态分隔符 - 使用更现代的设计 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12&height=3" width="100%" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  社区贡献
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px" style="vertical-align: middle; position: relative; top: -2px;"/>
-</h2>
   
   
   
