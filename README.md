@@ -6,19 +6,6 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI初学者+%7C+DB研究者+%7C+创新者;探索科技边界，打造精彩体验;代码改变世界，创意驱动未来;永远保持好奇心，做最酷的项目)](https://git.io/typing-svg)
   
 </div>
-  
-  
-  
-  <!-- 统一卡片大小并调整比例 - 优化显示效果 -->
-<!-- 统一卡片大小并调整比例 - 修复高度不一致问题 -->
-<div align="center">
-<!-- 添加动态数据卡片 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="33%" />
-
-</div>
-
 
 <!-- 关于我部分 - 统一标题样式并对齐图标 -->
 
@@ -59,6 +46,4 @@
   <i>让我们一起探索代码的无限可能!✨</i> 
 </p>
 
-<!-- 添加波浪动画页脚 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
