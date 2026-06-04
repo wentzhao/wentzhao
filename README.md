@@ -15,13 +15,13 @@
 </h2>
 
 <p align="center">
-  👨‍💻 这里写一句自我介绍，例如：热爱技术，专注AI与数据库，喜欢用代码创造有趣的东西。
+  👨‍💻 热爱技术，专注AI与数据库，喜欢用代码创造有趣的东西。
 </p>
 
 <p align="center">
   🌱 正在学习：Python / SQL / 机器学习<br/>
   💬 欢迎交流技术、开源项目与合作<br/>
-  📫 联系方式：your-email@example.com
+  📫 联系方式：1964264589@qq.com
 </p>
 
 ---
@@ -47,16 +47,18 @@ def analyze_sentiment(text):
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25" align="center" />
 </h2>
 
-<!-- 贡献蛇形图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wentzhao/wentzhao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wentzhao/wentzhao/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wentzhao/wentzhao/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <!-- 贡献蛇形图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wentzhao/wentzhao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wentzhao/wentzhao/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wentzhao/wentzhao/output/github-contribution-grid-snake.svg">
+  </picture>
 
-<br>
+  <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wentzhao&theme=radical">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wentzhao&theme=radical">
+</div>
 
 ---
 
