@@ -28,21 +28,6 @@
 
 <h2 align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25" align="center" />
-  代码片段
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25" align="center" />
-</h2>
-
-```python
-# 示例：一个简单的情感分析 demo
-def analyze_sentiment(text):
-    # TODO: 接入模型
-    return "positive" if "好" in text else "neutral"
-```
-
----
-
-<h2 align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25" align="center" />
   GitHub 活动
   <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="25" align="center" />
 </h2>
